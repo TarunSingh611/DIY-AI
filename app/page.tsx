@@ -3,7 +3,7 @@ import { useState } from 'react';
 import Head from 'next/head';
 import TripDetails from '@/components/TripDetails';
 import { travelCities } from '@/lib/locations'; // Ensure this path is correct
-import { generateTripPlan } from '@/utils/openaiClient'; // Ensure this path is correct
+import { generateTripPlan } from '@/utils/gemini'; // Ensure this path is correct
 import * as Yup from 'yup';
 import { Formik, Form, Field, ErrorMessage } from 'formik';
 
@@ -27,10 +27,8 @@ export default function Home() {
     try {
       // Add country to the form data when calling generateTripPlan
       const tripResponse: any = await generateTripPlan(values);
-      console.log('Trip Response:', tripResponse);
       setTripPlan(tripResponse);
     } catch (error) {
-      console.error('Error generating trip:', error);
       setTripPlan('Unable to generate a trip plan at this time.');
     } finally {
       setLoading(false);
@@ -49,7 +47,7 @@ export default function Home() {
       <main className="container mx-auto px-4 py-8">
         <h1 className="text-4xl font-bold text-center text-blue-800 mb-8">Travel Planner</h1>
 
-        <div className="grid md:grid-cols-2 gap-8">
+        <div className="grid  gap-8">
           <div className="bg-white rounded-lg shadow-md p-6">
             <Formik
               initialValues={{ country: '', state: '', city: '', days: '' }}
