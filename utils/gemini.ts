@@ -1,4 +1,5 @@
 import axios from 'axios';
+import { parseAndSanitizeRecipe } from './sanitizeRecipe';
 
 const API_BASE_URL = 'https://generativelanguage.googleapis.com/v1beta/models';
 const API_KEY = process.env.NEXT_PUBLIC_GOOGLE_API_KEY;
@@ -68,3 +69,72 @@ export async function generateTripPlan(formData: any) {
         throw error;
     }
 }
+
+export async function generateRecipe(ingredients: string[], preferences: any = {}) {
+    if (!API_KEY) {
+        throw new Error('Google API Key is not defined');
+    }
+
+    if (!ingredients || ingredients.length === 0) {
+        throw new Error('No ingredients provided. Please add at least one ingredient.');
+    }
+
+    const userPrompt = `
+  You are a professional chef. Create a creative, delicious recipe based ONLY on the user's input.
+  
+  Ingredients: ${ingredients.join(', ')}
+  
+  STRICT RULES:
+  - Use ONLY the provided ingredients. Basic essentials (salt, pepper, oil, water) are allowed.
+  - DO NOT add any other ingredients.
+  - Do NOT suggest ingredients not in the list (e.g., no mushrooms unless given).
+  - Recipe title must match actual ingredients used.
+  
+  
+  FORMAT:
+  - Title;
+  - Ingredients with quantities;
+  - Step-by-step instructions;
+  - Total cooking time in minutes (just the number);
+  - Difficulty level (easy, medium, hard).
+  `;
+
+    const requestBody: GeminiRequest = {
+        contents: [{
+            parts: [{
+                text: userPrompt
+            }]
+        }]
+    };
+
+    try {
+        const response = await axios.post<GeminiResponse>(
+            `${API_BASE_URL}/gemini-1.5-flash-latest:generateContent?key=${API_KEY}`,
+            requestBody,
+            {
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            }
+        );
+
+        const generatedText = response.data.candidates[0]?.content.parts[0]?.text;
+
+        if (!generatedText) {
+            throw new Error('No recipe content was generated. Please try again.');
+        }
+
+        // Parse the generated text into a structured recipe object
+        const parsedRecipe = parseAndSanitizeRecipe(generatedText);
+        
+        return parsedRecipe;
+    } catch (error) {
+        if (axios.isAxiosError(error)) {
+            console.error('Gemini API Error:', error.response?.data);
+            throw new Error(error.response?.data?.error?.message || 'Failed to generate recipe');
+        }
+        throw error;
+    }
+}
+
+

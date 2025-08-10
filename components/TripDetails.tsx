@@ -18,7 +18,13 @@ import {
   ShoppingBag
 } from 'lucide-react';
 
-const TripDetails = ({ loading, tripPlan }: any) => {
+interface TripDetailsProps {
+  loading: boolean;
+  tripPlan: string;
+  formData?: any;
+}
+
+const TripDetails = ({ loading, tripPlan, formData }: TripDetailsProps) => {
   const [activeTab, setActiveTab] = useState('itinerary');
   const [isLiked, setIsLiked] = useState(false);
 
@@ -133,7 +139,9 @@ const TripDetails = ({ loading, tripPlan }: any) => {
                       <Calendar className="h-5 w-5 text-blue-600" />
                       <span className="text-sm font-medium text-blue-900">Duration</span>
                     </div>
-                    <div className="text-2xl font-bold text-blue-900 mt-1">7 Days</div>
+                    <div className="text-2xl font-bold text-blue-900 mt-1">
+                      {formData?.days ? `${formData.days} Days` : 'N/A'}
+                    </div>
                   </div>
                   
                   <div className="bg-gradient-to-br from-green-50 to-green-100 rounded-lg p-4 border border-green-200">
@@ -141,7 +149,9 @@ const TripDetails = ({ loading, tripPlan }: any) => {
                       <MapPin className="h-5 w-5 text-green-600" />
                       <span className="text-sm font-medium text-green-900">Destination</span>
                     </div>
-                    <div className="text-2xl font-bold text-green-900 mt-1">Paris</div>
+                    <div className="text-2xl font-bold text-green-900 mt-1">
+                      {formData?.city ? `${formData.city}, ${formData.state || ''} ${formData.country || ''}`.trim() : 'N/A'}
+                    </div>
                   </div>
                   
                   <div className="bg-gradient-to-br from-purple-50 to-purple-100 rounded-lg p-4 border border-purple-200">
@@ -149,7 +159,9 @@ const TripDetails = ({ loading, tripPlan }: any) => {
                       <DollarSign className="h-5 w-5 text-purple-600" />
                       <span className="text-sm font-medium text-purple-900">Budget</span>
                     </div>
-                    <div className="text-2xl font-bold text-purple-900 mt-1">$2,500</div>
+                    <div className="text-2xl font-bold text-purple-900 mt-1">
+                      {formData?.budget ? `$${formData.budget.toLocaleString()}` : 'N/A'}
+                    </div>
                   </div>
                   
                   <div className="bg-gradient-to-br from-orange-50 to-orange-100 rounded-lg p-4 border border-orange-200">
@@ -157,7 +169,9 @@ const TripDetails = ({ loading, tripPlan }: any) => {
                       <Users className="h-5 w-5 text-orange-600" />
                       <span className="text-sm font-medium text-orange-900">Travelers</span>
                     </div>
-                    <div className="text-2xl font-bold text-orange-900 mt-1">2</div>
+                    <div className="text-2xl font-bold text-orange-900 mt-1">
+                      {formData?.travelers || 'N/A'}
+                    </div>
                   </div>
                 </div>
 

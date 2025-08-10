@@ -1,6 +1,6 @@
 "use client";
 import { useState } from 'react';
-import { Globe } from 'lucide-react';
+import { Sparkles } from 'lucide-react';
 
 const Header = () => {
   return (
@@ -10,17 +10,17 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-3">
             <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-gradient-to-br from-blue-600 to-cyan-600">
-              <Globe className="h-6 w-6 text-white" />
+              <Sparkles className="h-6 w-6 text-white" />
             </div>
             <div className="hidden sm:block">
-              <h1 className="text-xl font-bold gradient-text">Wanderlust</h1>
-              <p className="text-xs text-muted-foreground">AI Travel Planner</p>
+              <h1 className="text-xl font-bold gradient-text">DIY_AI</h1>
+              <p className="text-xs text-muted-foreground">Your AI Assistant Hub</p>
             </div>
           </div>
 
           {/* Simple branding for mobile */}
           <div className="sm:hidden">
-            <h1 className="text-lg font-bold gradient-text">Wanderlust</h1>
+            <h1 className="text-lg font-bold gradient-text">DIY_AI</h1>
           </div>
         </div>
       </div>
