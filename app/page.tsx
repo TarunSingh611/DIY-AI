@@ -24,6 +24,15 @@ export default function Home() {
       color: 'from-green-600 to-emerald-600',
       bgColor: 'from-green-50 via-emerald-50 to-teal-50',
       href: '/recipe-generator'
+    },
+    {
+      id: 'task-prioritizer',
+      name: 'Task Prioritizer',
+      description: 'Beat decision fatigue with AI-powered task prioritization',
+      icon: '🎯',
+      color: 'from-purple-600 to-pink-600',
+      bgColor: 'from-purple-50 via-pink-50 to-rose-50',
+      href: '/task-prioritizer'
     }
   ];
 
