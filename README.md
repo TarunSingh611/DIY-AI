@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=blue)
-![GitHub issues](https://img.shields.io/github/issues/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=red)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=green)
-![GitHub license](https://img.shields.io/github/license/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=orange)
+![GitHub stars](https://img.shields.io/github/stars/TarunSingh611/DIY-AI?style=for-the-badge&logo=github&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/TarunSingh611/DIY-AI?style=for-the-badge&logo=github&color=blue)
+![GitHub issues](https://img.shields.io/github/issues/TarunSingh611/DIY-AI?style=for-the-badge&logo=github&color=red)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/TarunSingh611/DIY-AI?style=for-the-badge&logo=github&color=green)
+![GitHub license](https://img.shields.io/github/license/TarunSingh611/DIY-AI?style=for-the-badge&logo=github&color=orange)
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.2.11-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -33,7 +33,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TarunSingh611&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![Repository Views](https://komarev.com/ghpvc/?username=TarunSingh611&repo=Content-Platform&color=blueviolet&style=for-the-badge&label=REPO+VIEWS)
+![Repository Views](https://komarev.com/ghpvc/?username=TarunSingh611&repo=DIY-AI&color=blueviolet&style=for-the-badge&label=REPO+VIEWS)
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-green?style=for-the-badge&logo=vercel)](https://content-platform-pink.vercel.app)
-[![Documentation](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/TarunSingh611/Content-Platform#readme)
-[![Contributing](https://img.shields.io/badge/Contributing-Welcome-orange?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/Content-Platform/blob/main/CONTRIBUTING.md)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-green?style=for-the-badge&logo=vercel)](https://DIY-AI-pink.vercel.app)
+[![Documentation](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/TarunSingh611/DIY-AI#readme)
+[![Contributing](https://img.shields.io/badge/Contributing-Welcome-orange?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/DIY-AI/blob/main/CONTRIBUTING.md)
 
 </div>
 
@@ -112,8 +112,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/TarunSingh611/Content-Platform.git
-   cd Content-Platform
+   git clone https://github.com/TarunSingh611/DIY-AI.git
+   cd DIY-AI
    ```
 
 2. **Install dependencies**
@@ -172,7 +172,7 @@
 ## 📁 Project Structure
 
 ```
-Content-Platform/
+DIY-AI/
 ├── app/                          # Next.js app directory
 │   ├── page.tsx                  # Home page (app selection)
 │   ├── travel-planner/           # Travel planner app
@@ -316,23 +316,23 @@ If you have any questions or need help:
 
 ## 📊 Project Statistics
 
-![Repository Size](https://img.shields.io/github/repo-size/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=blue)
-![Code Size](https://img.shields.io/github/languages/code-size/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=green)
-![Last Commit](https://img.shields.io/github/last-commit/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=orange)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=purple)
+![Repository Size](https://img.shields.io/github/repo-size/TarunSingh611/DIY-AI?style=for-the-badge&logo=github&color=blue)
+![Code Size](https://img.shields.io/github/languages/code-size/TarunSingh611/DIY-AI?style=for-the-badge&logo=github&color=green)
+![Last Commit](https://img.shields.io/github/last-commit/TarunSingh611/DIY-AI?style=for-the-badge&logo=github&color=orange)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/TarunSingh611/DIY-AI?style=for-the-badge&logo=github&color=purple)
 
 ## 🏆 Achievements
 
 ![GitHub followers](https://img.shields.io/github/followers/TarunSingh611?style=for-the-badge&logo=github&color=blue)
 ![GitHub sponsors](https://img.shields.io/github/sponsors/TarunSingh611?style=for-the-badge&logo=github&color=pink)
-![GitHub discussions](https://img.shields.io/github/discussions-search/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=green)
+![GitHub discussions](https://img.shields.io/github/discussions-search/TarunSingh611/DIY-AI?style=for-the-badge&logo=github&color=green)
 
 ## 🔗 Quick Links
 
-[![Website](https://img.shields.io/badge/Website-Visit_App-blue?style=for-the-badge&logo=globe)](https://content-platform-pink.vercel.app)
-[![API Docs](https://img.shields.io/badge/API_Docs-Read_More-green?style=for-the-badge&logo=read-the-docs)](https://github.com/TarunSingh611/Content-Platform#api-configuration)
-[![Changelog](https://img.shields.io/badge/Changelog-View_History-orange?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/Content-Platform/commits/main)
-[![Releases](https://img.shields.io/badge/Releases-Latest-purple?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/Content-Platform/releases)
+[![Website](https://img.shields.io/badge/Website-Visit_App-blue?style=for-the-badge&logo=globe)](https://DIY-AI-pink.vercel.app)
+[![API Docs](https://img.shields.io/badge/API_Docs-Read_More-green?style=for-the-badge&logo=read-the-docs)](https://github.com/TarunSingh611/DIY-AI#api-configuration)
+[![Changelog](https://img.shields.io/badge/Changelog-View_History-orange?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/DIY-AI/commits/main)
+[![Releases](https://img.shields.io/badge/Releases-Latest-purple?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/DIY-AI/releases)
 
 ---
 
@@ -340,9 +340,9 @@ If you have any questions or need help:
 
 <div align="center">
 
-[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-Click_here-yellow?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/Content-Platform)
-[![Report a bug](https://img.shields.io/badge/🐛_Report_a_bug-Click_here-red?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/Content-Platform/issues)
-[![Request a feature](https://img.shields.io/badge/💡_Request_a_feature-Click_here-green?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/Content-Platform/issues)
+[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-Click_here-yellow?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/DIY-AI)
+[![Report a bug](https://img.shields.io/badge/🐛_Report_a_bug-Click_here-red?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/DIY-AI/issues)
+[![Request a feature](https://img.shields.io/badge/💡_Request_a_feature-Click_here-green?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/DIY-AI/issues)
 
 </div>
 
