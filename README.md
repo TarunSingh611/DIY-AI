@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-green?style=for-the-badge&logo=vercel)](https://DIY-AI-pink.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-green?style=for-the-badge&logo=vercel)](https://diy-ai-opal.vercel.app)
 [![Documentation](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/TarunSingh611/DIY-AI#readme)
 [![Contributing](https://img.shields.io/badge/Contributing-Welcome-orange?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/DIY-AI/blob/main/CONTRIBUTING.md)
 
@@ -329,7 +329,7 @@ If you have any questions or need help:
 
 ## 🔗 Quick Links
 
-[![Website](https://img.shields.io/badge/Website-Visit_App-blue?style=for-the-badge&logo=globe)](https://DIY-AI-pink.vercel.app)
+[![Website](https://img.shields.io/badge/Website-Visit_App-blue?style=for-the-badge&logo=globe)](https://diy-ai-opal.vercel.app)
 [![API Docs](https://img.shields.io/badge/API_Docs-Read_More-green?style=for-the-badge&logo=read-the-docs)](https://github.com/TarunSingh611/DIY-AI#api-configuration)
 [![Changelog](https://img.shields.io/badge/Changelog-View_History-orange?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/DIY-AI/commits/main)
 [![Releases](https://img.shields.io/badge/Releases-Latest-purple?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/DIY-AI/releases)
