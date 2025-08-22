@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=blue)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=red)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=green)
-![GitHub license](https://img.shields.io/github/license/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=orange)
+![GitHub stars](https://img.shields.io/github/stars/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=blue)
+![GitHub issues](https://img.shields.io/github/issues/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=red)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=green)
+![GitHub license](https://img.shields.io/github/license/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=orange)
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.2.11-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -24,16 +24,16 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide=contribs,issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunSingh611&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide=contribs,issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSingh611&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunSingh611&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![Repository Views](https://komarev.com/ghpvc/?username=yourusername&repo=ai-travel-planner&color=blueviolet&style=for-the-badge&label=REPO+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=TarunSingh611&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Repository Views](https://komarev.com/ghpvc/?username=TarunSingh611&repo=Content-Platform&color=blueviolet&style=for-the-badge&label=REPO+VIEWS)
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-green?style=for-the-badge&logo=vercel)](https://your-app-url.vercel.app)
-[![Documentation](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/yourusername/ai-travel-planner#readme)
-[![Contributing](https://img.shields.io/badge/Contributing-Welcome-orange?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-travel-planner/blob/main/CONTRIBUTING.md)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-green?style=for-the-badge&logo=vercel)](https://content-platform-pink.vercel.app)
+[![Documentation](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/TarunSingh611/Content-Platform#readme)
+[![Contributing](https://img.shields.io/badge/Contributing-Welcome-orange?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/Content-Platform/blob/main/CONTRIBUTING.md)
 
 </div>
 
@@ -112,8 +112,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-travel-planner.git
-   cd ai-travel-planner
+   git clone https://github.com/TarunSingh611/Content-Platform.git
+   cd Content-Platform
    ```
 
 2. **Install dependencies**
@@ -172,7 +172,7 @@
 ## 📁 Project Structure
 
 ```
-ai-travel-planner/
+Content-Platform/
 ├── app/                          # Next.js app directory
 │   ├── page.tsx                  # Home page (app selection)
 │   ├── travel-planner/           # Travel planner app
@@ -316,23 +316,23 @@ If you have any questions or need help:
 
 ## 📊 Project Statistics
 
-![Repository Size](https://img.shields.io/github/repo-size/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=blue)
-![Code Size](https://img.shields.io/github/languages/code-size/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=green)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=orange)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=purple)
+![Repository Size](https://img.shields.io/github/repo-size/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=blue)
+![Code Size](https://img.shields.io/github/languages/code-size/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=green)
+![Last Commit](https://img.shields.io/github/last-commit/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=orange)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=purple)
 
 ## 🏆 Achievements
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&color=blue)
-![GitHub sponsors](https://img.shields.io/github/sponsors/yourusername?style=for-the-badge&logo=github&color=pink)
-![GitHub discussions](https://img.shields.io/github/discussions-search/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=green)
+![GitHub followers](https://img.shields.io/github/followers/TarunSingh611?style=for-the-badge&logo=github&color=blue)
+![GitHub sponsors](https://img.shields.io/github/sponsors/TarunSingh611?style=for-the-badge&logo=github&color=pink)
+![GitHub discussions](https://img.shields.io/github/discussions-search/TarunSingh611/Content-Platform?style=for-the-badge&logo=github&color=green)
 
 ## 🔗 Quick Links
 
-[![Website](https://img.shields.io/badge/Website-Visit_App-blue?style=for-the-badge&logo=globe)](https://your-app-url.vercel.app)
-[![API Docs](https://img.shields.io/badge/API_Docs-Read_More-green?style=for-the-badge&logo=read-the-docs)](https://github.com/yourusername/ai-travel-planner#api-configuration)
-[![Changelog](https://img.shields.io/badge/Changelog-View_History-orange?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-travel-planner/commits/main)
-[![Releases](https://img.shields.io/badge/Releases-Latest-purple?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-travel-planner/releases)
+[![Website](https://img.shields.io/badge/Website-Visit_App-blue?style=for-the-badge&logo=globe)](https://content-platform-pink.vercel.app)
+[![API Docs](https://img.shields.io/badge/API_Docs-Read_More-green?style=for-the-badge&logo=read-the-docs)](https://github.com/TarunSingh611/Content-Platform#api-configuration)
+[![Changelog](https://img.shields.io/badge/Changelog-View_History-orange?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/Content-Platform/commits/main)
+[![Releases](https://img.shields.io/badge/Releases-Latest-purple?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/Content-Platform/releases)
 
 ---
 
@@ -340,9 +340,9 @@ If you have any questions or need help:
 
 <div align="center">
 
-[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-Click_here-yellow?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-travel-planner)
-[![Report a bug](https://img.shields.io/badge/🐛_Report_a_bug-Click_here-red?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-travel-planner/issues)
-[![Request a feature](https://img.shields.io/badge/💡_Request_a_feature-Click_here-green?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-travel-planner/issues)
+[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-Click_here-yellow?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/Content-Platform)
+[![Report a bug](https://img.shields.io/badge/🐛_Report_a_bug-Click_here-red?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/Content-Platform/issues)
+[![Request a feature](https://img.shields.io/badge/💡_Request_a_feature-Click_here-green?style=for-the-badge&logo=github)](https://github.com/TarunSingh611/Content-Platform/issues)
 
 </div>
 
