@@ -1,12 +1,53 @@
 # AI Travel Planner & Productivity Hub 🚀
 
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=blue)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=red)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=green)
+![GitHub license](https://img.shields.io/github/license/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=orange)
+
 [![Next.js](https://img.shields.io/badge/Next.js-14.2.11-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Google Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-1.5-4285F4?style=for-the-badge&logo=google)](https://ai.google.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![npm](https://img.shields.io/badge/npm-9+-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
+[![Zustand](https://img.shields.io/badge/Zustand-State_Management-purple?style=for-the-badge&logo=javascript)](https://zustand-demo.pmnd.rs/)
+[![Axios](https://img.shields.io/badge/Axios-HTTP_Client-blue?style=for-the-badge&logo=javascript)](https://axios-http.com/)
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide=contribs,issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Repository Views](https://komarev.com/ghpvc/?username=yourusername&repo=ai-travel-planner&color=blueviolet&style=for-the-badge&label=REPO+VIEWS)
+
+</div>
+
+---
+
 > A comprehensive AI-powered platform featuring travel planning, recipe generation, and intelligent task prioritization. Built with modern web technologies and Google's Gemini AI for smart content generation and decision-making.
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-green?style=for-the-badge&logo=vercel)](https://your-app-url.vercel.app)
+[![Documentation](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/yourusername/ai-travel-planner#readme)
+[![Contributing](https://img.shields.io/badge/Contributing-Welcome-orange?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-travel-planner/blob/main/CONTRIBUTING.md)
+
+</div>
 
 ## ✨ Features
 
@@ -273,8 +314,36 @@ If you have any questions or need help:
 
 <div align="center">
 
+## 📊 Project Statistics
+
+![Repository Size](https://img.shields.io/github/repo-size/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=blue)
+![Code Size](https://img.shields.io/github/languages/code-size/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=green)
+![Last Commit](https://img.shields.io/github/last-commit/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=orange)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=purple)
+
+## 🏆 Achievements
+
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&color=blue)
+![GitHub sponsors](https://img.shields.io/github/sponsors/yourusername?style=for-the-badge&logo=github&color=pink)
+![GitHub discussions](https://img.shields.io/github/discussions-search/yourusername/ai-travel-planner?style=for-the-badge&logo=github&color=green)
+
+## 🔗 Quick Links
+
+[![Website](https://img.shields.io/badge/Website-Visit_App-blue?style=for-the-badge&logo=globe)](https://your-app-url.vercel.app)
+[![API Docs](https://img.shields.io/badge/API_Docs-Read_More-green?style=for-the-badge&logo=read-the-docs)](https://github.com/yourusername/ai-travel-planner#api-configuration)
+[![Changelog](https://img.shields.io/badge/Changelog-View_History-orange?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-travel-planner/commits/main)
+[![Releases](https://img.shields.io/badge/Releases-Latest-purple?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-travel-planner/releases)
+
+---
+
 **Made with ❤️ for productivity enthusiasts worldwide**
 
-[⭐ Star this repo](https://github.com/yourusername/ai-travel-planner) | [🐛 Report a bug](https://github.com/yourusername/ai-travel-planner/issues) | [💡 Request a feature](https://github.com/yourusername/ai-travel-planner/issues)
+<div align="center">
+
+[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-Click_here-yellow?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-travel-planner)
+[![Report a bug](https://img.shields.io/badge/🐛_Report_a_bug-Click_here-red?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-travel-planner/issues)
+[![Request a feature](https://img.shields.io/badge/💡_Request_a_feature-Click_here-green?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-travel-planner/issues)
+
+</div>
 
 </div>
